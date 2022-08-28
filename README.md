@@ -1,2 +1,7 @@
-# Panting-Note-Detection-with-Compressive-Sensing-MFCC-and-SVM
-Panting is one of traditional music istrument from Indonesia. This project is about detecting Panting's notes with using MFCC as the feature extraction method and SVM for the classification. Compressive Sensing is also being implemented to compress the audio file. The aim of this study is to analyze the impact of compression process for Panting's notes detection system.
+# Panting's Notes Detection with Compressive Sensing MFCC and SVM
+
+## Labels / Classes
+Total of Classes : 7
+Classes : Do, Re, Mi, Fa, So, La, Si
+
+## Feature Extraction
