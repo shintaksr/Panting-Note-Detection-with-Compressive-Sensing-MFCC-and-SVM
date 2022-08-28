@@ -2,6 +2,7 @@
 
 ## Labels / Classes
 Total of Classes : 7
+
 Classes : Do, Re, Mi, Fa, So, La, Si
 
 ## Feature Extraction
