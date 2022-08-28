@@ -1,6 +1,9 @@
 # Panting's Notes Detection with Compressive Sensing MFCC and SVM
 > Collating the classification results of both with and without using the compressed audio. The compression process itself is done with several various compression ratios to clarify how well the system can clasify the Panting's notes despite the fact that it implies several compression ratios.
 
+## Audio Data
+20 audio files in each class
+
 ## Labels / Classes
 Total of Classes : 7
 
